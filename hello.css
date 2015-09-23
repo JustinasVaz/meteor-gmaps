@@ -1,9 +1,8 @@
-/* CSS declarations go here */
 #map-canvas {
     height: 800px;
     width: 80%;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     float: left;
 }
 
